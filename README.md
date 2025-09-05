@@ -1,7 +1,7 @@
 # 💎 Serein Touch – Jewelry E-Commerce Website  
 
-**Serein Touch** is a full-stack e-commerce jewelry store built with **React (Vite)** for the frontend and **Node.js + Express + MongoDB** for the backend.  
-It provides a clean, minimal design with essential shopping features like browsing, cart, checkout, and order tracking.  
+**Serein Touch** is a e-commerce jewelry store built with **React (Vite)** for the frontend. 
+It provides a clean, minimal design with essential shopping features.
 
 ---
 
