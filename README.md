@@ -34,7 +34,7 @@ Codantix-Task-12/
 
 ## ⚡ Getting Started  
 
-### 1️⃣ Clone the repository  
+### Clone the repository  
 ```bash
 git clone https://github.com/your-username/serein-touch.git
 cd serein-touch
