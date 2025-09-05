@@ -52,4 +52,4 @@ npm install
 npm run dev
 ```
 ---
-A minimal, modern and elegant e-commerce jewelry store
+A minimal, modern and elegant e-commerce jewelry store✨
